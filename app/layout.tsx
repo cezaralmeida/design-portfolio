@@ -17,10 +17,10 @@ export const metadata: Metadata = {
     canonical: '/'
   },
   title: {
-    default: 'Nim - Personal website template',
-    template: '%s | Nim'
+    default: 'Cezar Almeida - My Portfolio',
+    template: ''
   },
-  description:  'Nim is a free and open-source personal website template built with Next.js 15, React 19 and Motion-Primitives.',
+  description:  'Cézar Almeida is a London-based Product Designer with 10+ years experience building human-centric digital experiences.',
 };
 
 const geist = Geist({
